@@ -7,7 +7,7 @@
 ☕ Let's get in touch and talk about frogs!
 
 <p align="center">
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twilkhoo&theme=tokyonight&hide_border=true"/>
+<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkomoran&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
