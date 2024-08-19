@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rinorkomorani/" target="_blank"><img src="https://img.shields.io/badge/-twilkhoo-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://linkedin.com/in/twilkhoo/" alt="Rinor's Linkedin"></a>
+<a href="https://www.linkedin.com/in/rinorkomorani/" target="_blank">< alt="Rinor's Linkedin"></a>
 
 <div align="center">
 <a href="https://github.com/twilkhoo/" target="_blank">
