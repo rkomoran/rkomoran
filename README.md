@@ -18,6 +18,6 @@
     <img src="https://img.shields.io/badge/-CBC%20News%20Feature-0056A0?style=for-the-badge&amp;logo=cbc&amp;logoColor=white" alt="Rinor's CBC News Feature">
   </a>
   <a href="https://www.youtube.com/watch?v=azzU6Uc-E3g" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube%20Video-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Rinor's Top 5 Spots @ UNB">
+    <img src="https://img.shields.io/badge/-Rinor's Top 5 Spots @ UNB-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Rinor's Top 5 Spots @ UNB">
   </a>
 </p>
