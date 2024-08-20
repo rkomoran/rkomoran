@@ -27,3 +27,6 @@
     <img src="https://media.giphy.com/media/lyqTO244WjFE1JlXts/giphy.gif" alt="Frog GIF" width="480"/>
   </a>
 </p>
+
+![Frog GIF](https://media.giphy.com/media/lyqTO244WjFE1JlXts/giphy.gif)
+
