@@ -8,8 +8,9 @@
 
 <p align="center">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkomoran&theme=tokyonight&hide_border=true"/>
-    <a href="https://giphy.com/gifs/frog-ribbit-froggie-lyqTO244WjFE1JlXts" target="_blank">
-    <img src="https://media.giphy.com/media/lyqTO244WjFE1JlXts/giphy.gif" alt="Frog GIF" width="480"/>
+  <a href="https://giphy.com/gifs/frog-ribbit-froggie-lyqTO244WjFE1JlXts" target="_blank">
+    <img src="https://media.giphy.com/media/lyqTO244WjFE1JlXts/giphy.gif" alt="Frog GIF" height="230"/>
+  </a>
 </p>
 
 <p align="center">
@@ -23,12 +24,3 @@
     <img src="https://img.shields.io/badge/-Top 5 Spots @ UNB-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Rinor's Top 5 Spots @ UNB">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://giphy.com/gifs/frog-ribbit-froggie-lyqTO244WjFE1JlXts" target="_blank">
-    <img src="https://media.giphy.com/media/lyqTO244WjFE1JlXts/giphy.gif" alt="Frog GIF" width="480"/>
-  </a>
-</p>
-
-![Frog GIF](https://media.giphy.com/media/lyqTO244WjFE1JlXts/giphy.gif)
-
