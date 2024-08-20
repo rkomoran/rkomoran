@@ -8,6 +8,8 @@
 
 <p align="center">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkomoran&theme=tokyonight&hide_border=true"/>
+    <a href="https://giphy.com/gifs/frog-ribbit-froggie-lyqTO244WjFE1JlXts" target="_blank">
+    <img src="https://media.giphy.com/media/lyqTO244WjFE1JlXts/giphy.gif" alt="Frog GIF" width="480"/>
 </p>
 
 <p align="center">
