@@ -8,8 +8,7 @@
 
 
 <p align="center">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=rkomoran&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/pin/?username=rkomoran&repo=frog-bot&theme=tokyonight&hide_border=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkomoran&theme=tokyonight&hide_border=true"/>
 </p>
 
 
