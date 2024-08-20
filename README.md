@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/rinorkomorani/" target="_blank"> 
     <img src="https://img.shields.io/badge/-rinorkomorani-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" alt="Rinor's LinkedIn">
   </a>
-  <a href="https://www.cbc.ca/news/canada/new-brunsw" target="_blank">
+  <a href="https://www.cbc.ca/news/canada/new-brunswick/unb-artificial-intelligence-camp-1.6930280" target="_blank">
     <img src="https://img.shields.io/badge/-CBC%20News%20Feature-0056A0?style=for-the-badge&amp;logo=cbc&amp;logoColor=white" alt="CBC News Feature">
   </a>
 </p>
